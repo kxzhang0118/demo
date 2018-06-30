@@ -1,18 +1,12 @@
 # demo
 A demo of how to create a C++ cmdline tool
 
-# usage
+#usage
 ```shell
-# build it
+#build it
 make
 
-# run
-./demo --word=hello --repeat=3
-# or
-./demo -w hello -r 3
-
-# the output will be 
-hello
-hello
-hello
-```
+#run
+./demo --word =hello --repeat=3
+#or
+./demo -w hello -r 3 
